@@ -1,0 +1,10 @@
+Hi Hello
+how are you
+testing
+1
+2
+3
+adding conflict
+conflict creation 2nd step
+
+Hi hello

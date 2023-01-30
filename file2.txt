@@ -3,4 +3,8 @@ changing amend
 again testing
 forgot to add this line
 testing one last time
+<<<<<<< HEAD
+dkodmkv
+=======
 abcd
+>>>>>>> f8380d6eadff62e54fac30ad0f3dc5e3f0e1e13f
